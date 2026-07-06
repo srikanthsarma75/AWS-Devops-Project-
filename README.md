@@ -127,6 +127,7 @@ Project backups are stored in Amazon S3 to provide a secure and reliable backup 
 Include screenshots of:
 
 * EC2 Instance
+* 
 * Jenkins Pipeline Success
 * Running Flask Application
 * Docker Container
